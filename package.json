@@ -1,0 +1,18 @@
+{
+  "name": "music-bot-traduzido",
+  "version": "1.0.0",
+  "description": "DIREEITOS RESERVADOS # BOTDEVELOPERSBR DIREEITOS RESERVADOS # DBD.JS criado por [vitor](https://discord.gg/2TWzx4hd)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.0.0",
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1"
+  }
+}
